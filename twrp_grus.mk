@@ -21,3 +21,6 @@ PRODUCT_NAME := twrp_grus
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := MI 9 SE
 PRODUCT_MANUFACTURER := Xiaomi
+
+# Custom TWRP Version
+TW_DEVICE_VERSION := 0_grus by Toyohama
